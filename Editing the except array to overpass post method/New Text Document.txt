@@ -1,0 +1,2 @@
+GO TO ->
+		app>http>middleware>verify cs token > Write "*" inside the $except array
